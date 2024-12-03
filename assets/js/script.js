@@ -1,0 +1,1 @@
+console.log("Welcome to your first step towards long lasting happiness");
